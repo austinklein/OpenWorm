@@ -1,4 +1,4 @@
-![OpenWorm](http://www.openworm.org/img/OpenWormLogo.png)
+Workflows![OpenWorm](http://www.openworm.org/img/OpenWormLogo.png)
 
 [![Docker Image CI](https://github.com/openworm/OpenWorm/actions/workflows/docker-image.yml/badge.svg)](https://github.com/openworm/OpenWorm/actions/workflows/docker-image.yml)
 
